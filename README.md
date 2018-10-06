@@ -14,15 +14,15 @@ A compilation of minigames that train and track your brain on abilities like tim
 
 ### Screenshots
 "Crashin' Trangles" is a timing minigame in which the user scores points by clicking when the two triangles are touching:
-![Crashin' Triangles](https://i.imgur.com/D8PuFlf.png = 250x250)
+<img src="https://i.imgur.com/D8PuFlf.png" alt="Crashin' Triangles" width="500px"/>
 
 The progress page of every game stores all past scores and graphs them:
-![Progress](https://i.imgur.com/KYtPjs0.png = 250x)
+<img src="https://i.imgur.com/KYtPjs0.png" alt="Progress" width="500px"/>
 
 ### Setup
-Clone this repository. You will need `Java` installed.
-Compile all source files (`javac main\*.java menus\*.java minigames\*.java util\*.java` in src folder).
-Execute main.SceneController (`java main.SceneController` in src folder).
+1. Clone this repository. You will need `Java` installed.
+2. Compile all source files (`javac main\*.java menus\*.java minigames\*.java util\*.java` in src folder).
+3. Execute main.SceneController (`java main.SceneController` in src folder).
 
 ### Status
 January 2017 - May 2017 (Completed)
