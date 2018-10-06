@@ -13,11 +13,11 @@ A compilation of minigames that train and track your brain on abilities like tim
 - used `File I/O` for user save files
 
 ### Screenshots
-![Crashin' Triangles](https://i.imgur.com/D8PuFlf.png)
-  - "Crashin' Trangles" is a timing minigame in which the user scores points by clicking when the two triangles are touching
+"Crashin' Trangles" is a timing minigame in which the user scores points by clicking when the two triangles are touching:
+![Crashin' Triangles](https://i.imgur.com/D8PuFlf.png = 250x250)
 
-![Progress](https://i.imgur.com/KYtPjs0.png)
-  - The progress page of every game stores all past scores and graphs them
+The progress page of every game stores all past scores and graphs them:
+![Progress](https://i.imgur.com/KYtPjs0.png = 250x)
 
 ### Setup
 Clone this repository. You will need `Java` installed.
@@ -30,7 +30,7 @@ January 2017 - May 2017 (Completed)
 ### Reflection
 Brain Juice was my first real project in Java. I used the OOP knowledge I had acquired throughout my Computer Science program in high school to create something unique. The project was a great learning experience for me.
 
-I had to learn how to:
+I learned how to:
 - create a GUI using `JavaFX`
 - develop an algorithm for every minigame
 - use `EventHandler` and `Timer` to manage the internal state of the minigame
